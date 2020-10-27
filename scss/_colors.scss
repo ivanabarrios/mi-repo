@@ -1,0 +1,28 @@
+$background-color-header:#fff5ee;
+$section-background-color: rgb(224, 196, 186);
+$footer-background-color:rgb(180, 173, 173);
+
+header {
+         background-color: $background-color-header;
+
+}
+
+footer {
+       background-color: $footer-background-color;
+}
+li {
+  a {
+      color: rgb(141, 38, 136);
+  }
+}
+
+.card-link {
+         color: rgb(245, 216, 216);
+}
+
+.card-title {
+          color:blanchedalmond ;
+}
+
+
+

@@ -1,5 +1,5 @@
 header {
-  background-color: #f5ebeb;
+  background-color: #fff5ee;
 }
 
 footer {
@@ -25,7 +25,6 @@ li {
 li a {
   font-family: "Berkshire Swash", cursive;
   font-size: 25px;
-  text-decoration: underline;
 }
 li a:hover {
   color: #e7ade5;
@@ -49,6 +48,7 @@ li a:hover {
   position: fixed;
   bottom: 2%;
   right: 10%;
+  z-index: 3;
 }
 
-
+/*# sourceMappingURL=alistate.css.map */
